@@ -1,1 +1,2 @@
-# maxfit
+naked-wordpress
+===============
